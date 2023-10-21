@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-- 👋 Hi, I’m Duy Vo 🇻🇳.
+- 👋 I’m Duy Vo 🇻🇳.
 - 🧑‍💻 Smart Contract Security Enthusiast.
 - 🖥️ Run Validator.
   
