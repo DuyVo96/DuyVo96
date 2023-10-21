@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Duy Vo 🇻🇳
-
+- 👋 Hi, I’m Duy Vo 🇻🇳.
+- 🧑‍💻 Smart Contract Security Enthusiast.
+- 🖥️ Run Validator.
+  
+##  Validator testnet:
+- Aptos
+- Celestia
+- Dymension
+- Covalent
+- Fleek
 
 
 
