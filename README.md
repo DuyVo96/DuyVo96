@@ -3,6 +3,7 @@
 - 👋 I’m Duy Vo 🇻🇳.
 - 🧑‍💻 Smart Contract Security Enthusiast
 - 🖥️ Run Validator
+- 👶🏻 A Badkid on Stargaze
 
   
 ##  Validator testnet:
